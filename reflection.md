@@ -4,6 +4,7 @@ Welcome to DS217! Please take a few minutes to introduce yourself by answering t
 
 ## 1. Who are you and what's your background?
 [Tell us a bit about yourself - your field of study, professional background, interests, or anything else you'd like to share]
+My name is Bob Ho. I am a first year student in Health Data Science program. I graduated from UCI majoring in Data Science, so I would say I am fairly familiar with Python and programming in general. 
 
 ## 2. What are you looking for out of this class?
 [What do you hope to gain? Specific skills, knowledge, applications, career goals?]
