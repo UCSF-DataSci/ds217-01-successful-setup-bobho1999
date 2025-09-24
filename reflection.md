@@ -20,7 +20,7 @@ I am definitely excited about the different data science application on health r
 ## 4. Share something you enjoy!
 [Drop a link to something you really enjoy - could be a website, article, video, project, hobby, book, podcast, or anything else you're into]
 
-I have been jamming on "Golden" along with other songs from the Netflix movie "Kpop Demon Hunters" recently. I have also been collecting some Pokemon cards though I found it hard to do with all the scalpers in the hobby.
+I have been jamming on ["Golden"](https://youtu.be/yebNIHKAC4A?si=U4nkzJ-Ajq7JHO_u) and other songs from the Netflix movie "Kpop Demon Hunters" lately. They are super catchy! I have also been collecting some Pokemon cards, though it has been tough with all the scalpers in the hobby. On top of that, I like playing boardgames too, especially those wargame type of board games.
 
 ---
 
